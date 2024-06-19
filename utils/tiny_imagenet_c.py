@@ -90,7 +90,3 @@ class TinyImageNetCDataset(Dataset):
     if self.transform:
       sample = self.transform(img)
     return sample, lbl
-
-
-# dataroot = "/home/davidoso/Documents/Data/"
-# a = TinyImageNetDataset(dataroot + 'tiny-imagenet-200/', preload=False)
