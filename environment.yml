@@ -103,4 +103,3 @@ dependencies:
     - soupsieve==2.5
     - tqdm==4.66.4
     - wcwidth==0.2.13
-prefix: /export/livia/home/vision/Mnoori/anaconda3/envs/watt
