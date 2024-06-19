@@ -29,10 +29,15 @@ The official implementation of our paper "WATT: Weight Average Test-Time Adaptio
 ## Usage
 ### Step 1: Clone the repository
 
+```bash
+git clone https://github.com/Mehrdad-Noori/WATT.git
+```
+
 ### Step 2: Setup the Environment
 Create an environment and Install the requirements The `environment.yaml` file can be used to install the required dependencies:
 
 ```bash
+cd WATT
 conda env create -f environment.yml
 ```
 
@@ -50,7 +55,7 @@ Supported datasets are:
 
 To download all datasets, simply run the following command:
 ```bash
-python download_datasets.py --data_dir /path/to/data/
+python download_datasets.py --data_dir ./data/
 ```
 
 ### Step 4: Adaptation
