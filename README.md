@@ -62,7 +62,7 @@ python download_datasets.py --data_dir ./data/
 
 There are different bash files in `./bash` directory which are prepared to reproduce the results of the paper for different datasets and domains.
 
-As an example, here is how to run `WATT-S` method for different corruprions of `CIFAR100-C` dataset using the eight text templates `templates.yaml` used in the paper (the corresponding bash file to reprpduce the resuults in the paper is located at `./bash/watt_s/CIFAR/cifar100c.sh`).
+As an example, here is how to run `WATT-S` method for different corruprions of `CIFAR100-C` dataset using the eight text templates `templates.yaml` used in the paper (the corresponding bash file to reprpduce the results in the paper is located at `./bash/watt_s/CIFAR/cifar100c.sh`).
 
 ```bash
 # dataset configuration
