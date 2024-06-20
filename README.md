@@ -43,7 +43,7 @@ conda env create -f environment.yml
 
 ### Step 3: Prepare Datasets
 
-Supported datasets are:
+Supported datasets:
 
 - [CIFAR10 & CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)
 - [CIFAR10-C](https://zenodo.org/records/2535967#.YzHFMXbMJPY)
