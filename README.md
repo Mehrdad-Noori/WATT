@@ -116,7 +116,7 @@ Here are the results of our prposed `WATT-P` and `WATT-S` methods on different c
 | Elastic transform|  26.33 |  33.09 | 28.12 |  37.45   |  39.97 | <b style="color:blue">40.90</b> |
 | Pixelate         |  21.98 |  26.47 | 20.43 |  33.88   |  39.59 | <b style="color:blue">40.97</b> |
 | JPEG compression |  25.91 |  29.89 | 28.82 |  36.07   |  38.99 | <b style="color:blue">39.59</b> |
-| <b**Mean**</b>         | 29.43 | 35.19 | 30.46 | 41.51 | 44.68 | <b style="color:blue">**45.57**</b> |
+| **Mean**         | 29.43 | 35.19 | 30.46 | 41.51 | 44.68 | <b style="color:blue">**45.57**</b> |
 
 </div>
 
