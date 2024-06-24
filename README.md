@@ -1,6 +1,6 @@
 # WATT: Weight Average Test-Time Adaption of CLIP
 
-The official implementation of our paper "WATT: Weight Average Test-Time Adaption of CLIP".
+The official implementation of our paper "WATT: Weight Average Test-Time Adaptation of CLIP".
 
 
 
