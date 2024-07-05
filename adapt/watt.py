@@ -31,7 +31,7 @@ class WATT:
             type: Adaptation method of WATT ('parallel' or 'sequential').
             l: Number of adaptation iterations for each text embedding before performing weight averaging.
             m: Number of repetitions of the adaptation and weight averaging process.
-            temps_dir: Path to the templates.yaml file which inclodes different text templates that should be used durring adaptation.
+            temps_dir: Path to the templates.yaml file which inclodes different text templates that should be used during adaptation.
             ref_eval: Whether to use REFERENCE_TEMPLATE during evaluation.
             device: The device to run the model on (e.g., 'cpu' or 'cuda').
 
