@@ -99,7 +99,7 @@ Here are the results of our prposed `WATT-P` and `WATT-S` methods on different c
 
 <div align="center">
 
-| Dataset          |  CLIP  |  TENT  |  TPT  | CLIPArTT | WATT-P | WATT-S |
+| Corruption       |  CLIP  |  TENT  |  TPT  | CLIPArTT | WATT-P | WATT-S |
 |------------------|:------:|:------:|:-----:|:--------:|:------:|:------:|
 | Gaussian Noise   |  14.80 |  14.38 | 14.03 |  25.32   |  31.28 | <b style="color:blue">32.07</b> |
 | Shot noise       |  16.03 |  17.34 | 15.25 |  27.90   |  33.44 | <b style="color:blue">34.36</b> |
