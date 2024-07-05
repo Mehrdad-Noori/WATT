@@ -8,7 +8,6 @@ from adapt import get_method
 from utils import datasets 
 from utils.misc import set_global_seeds, save_configuration
 
-## TODO add colorful badges for the README file 
 
 def argparser():
     parser = argparse.ArgumentParser("Weight Average Test Time Adaptation of CLIP")
