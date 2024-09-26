@@ -1,4 +1,4 @@
-# WATT: Weight Average Test-Time Adaptation of CLIP
+# [NeurIPS2024] WATT: Weight Average Test-Time Adaptation of CLIP
 
 The official implementation of our paper "WATT: Weight Average Test-Time Adaptation of CLIP".
 
